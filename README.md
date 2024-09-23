@@ -1,0 +1,1 @@
+# plugins-fr-custom-payment-gateway-icon-for-woocommerce
